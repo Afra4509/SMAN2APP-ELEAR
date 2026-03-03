@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SMADA Exam App — Security Upgrade v0.3 → v0.4
 
 Dokumentasi perubahan dan upgrade sistem keamanan aplikasi ujian **SMAN 2 Pasuruan** (SMADA XI).
@@ -201,3 +201,4 @@ Setiap kali pelanggaran terdeteksi dari layer mana pun:
 =======
 # sman2-elearning
 >>>>>>> 3271e9445304749f4a2ff16fe274d77bd9e6de78
+
